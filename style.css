@@ -1,0 +1,78 @@
+body {
+    font-family: Arial;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    width: 100%;
+    background: #333;
+    color: #fff;
+    padding: 10px 16px;
+    text-align: center;
+}
+.Start 
+    nav {
+      width: 100%;
+      background-color: #52a447;
+      float: left;
+      display: block;
+      color: #f2f2f2;
+      text-align:left;
+      padding: 14px 16px;
+      text-decoration: none;
+}
+.Start 
+    main {
+      width: 700;
+      height: auto;
+}
+.Start 
+    aside {
+      width: 25%;
+      float: right;
+
+}
+th {
+  background-color: #52a447;
+  color: white;
+  padding: 15px;
+  border: 5px;
+}
+td {
+ background-color: #333;
+  color: white;   
+}
+
+footer {
+     position: absolute;
+  bottom: 300;
+  left: 0;
+    width: 100%;
+    background-color: #52a447;
+    color: #fff;
+    padding: 1px 16px;
+    text-align: center;
+}
+
+.imp 
+th {
+background-color: none;
+  color: white;
+  padding: 14 px;
+  border: 1px;
+  text-align: center;
+  margin-left: auto; 
+  margin-right: auto; 
+border-collapse: collapse; 
+width: 10%; 
+}
+.standorte
+td {
+ background-color: #f4f4f4;
+  color: black;   
+}
+
+.img{width: 75%;} /*hab es nicht mit .Start hinbeckommen*/
+.inv{color: #f4f4f4;}
